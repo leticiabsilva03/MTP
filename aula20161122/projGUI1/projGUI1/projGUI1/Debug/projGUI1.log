@@ -1,0 +1,37 @@
+﻿Build started 22/11/2016 11:04:48.
+     1>Project "C:\Users\1E30\Documents\MTP\aula20161122\projGUI1\projGUI1\projGUI1\projGUI1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\projGUI1.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\projGUI1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt projGUI1.cpp /clr:nostdlib 
+         projGUI1.cpp
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(102): error C2039: 'checkBox1_CheckedChanged' : is not a member of 'projGUI1::Form1'
+                 c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(15) : see declaration of 'projGUI1::Form1'
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(102): error C2065: 'checkBox1_CheckedChanged' : undeclared identifier
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(102): error C3350: 'System::EventHandler' : a delegate constructor expects 2 argument(s)
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(221): error C2065: 'lblMensagem' : undeclared identifier
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(221): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(223): error C2065: 'lblMensagem' : undeclared identifier
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(223): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(223): error C2065: 'lblMensagem' : undeclared identifier
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(223): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(224): error C2065: 'chkIdade' : undeclared identifier
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(224): error C2227: left of '->Checked' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(225): error C2065: 'lblMensagem' : undeclared identifier
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(225): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(225): error C2065: 'lblMensagem' : undeclared identifier
+     1>c:\users\1e30\documents\mtp\aula20161122\projgui1\projgui1\projgui1\Form1.h(225): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>Done Building Project "C:\Users\1E30\Documents\MTP\aula20161122\projGUI1\projGUI1\projGUI1\projGUI1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.16
