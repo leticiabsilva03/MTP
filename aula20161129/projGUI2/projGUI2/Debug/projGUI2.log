@@ -1,0 +1,191 @@
+﻿Build started 01/12/2016 12:04:50.
+     1>Project "C:\Users\House\Documents\MTP\aula20161129\projGUI2\projGUI2\projGUI2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\projGUI2.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\projGUI2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt projGUI2.cpp /clr:nostdlib 
+         projGUI2.cpp
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(368): error C2039: 'lbldisplay' : is not a member of 'projGUI2::Form1'
+                 c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(15) : see declaration of 'projGUI2::Form1'
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(404): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(420): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(420): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(421): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(422): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(422): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(425): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(432): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(432): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(434): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(435): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(435): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(438): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(446): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(446): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(448): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(449): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(449): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(452): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(460): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(465): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(465): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(468): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(468): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(486): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(486): error C2227: left of '->Substring' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(487): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(487): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(487): error C2227: left of '->Substring' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(489): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(489): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(494): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(495): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(495): error C3861: 'sqrt': identifier not found
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(496): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(496): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(497): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(497): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(497): error C2227: left of '->Substring' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(502): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(508): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(518): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(520): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(526): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(532): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(538): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(545): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(547): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(548): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(548): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(549): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(549): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(549): error C2227: left of '->Substring' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(554): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(554): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(556): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(557): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(557): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(560): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(567): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(567): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(569): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(570): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(570): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(573): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(580): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(580): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(582): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(583): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(583): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(586): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(593): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(593): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(595): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(596): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(596): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(599): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(606): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(606): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(608): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(609): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(609): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(612): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(619): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(619): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(621): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(622): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(622): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(625): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(632): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(632): error C2227: left of '->Length' must point to class/struct/union/generic type
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(634): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(635): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(635): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(638): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\house\documents\mtp\aula20161129\projgui2\projgui2\Form1.h(645): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>Done Building Project "C:\Users\House\Documents\MTP\aula20161129\projGUI2\projGUI2\projGUI2.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.26
